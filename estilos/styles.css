@@ -1,6 +1,5 @@
 *{
-    box-sizing: border-box;
-    text-decoration: none;          
+    box-sizing: border-box;         
 }
 
 body{
@@ -100,6 +99,26 @@ h1{
 #about_me_secondp{
     font-size: 2rem;
 }
+
+/*--------FAB SONGS----------*/
+
+h2{
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 2.5rem;
+    color: #FFD88F;
+}
+
+h3{
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding-right: 7rem;
+}  
+
 
 /*--------FAB SONGS----------*/
 
