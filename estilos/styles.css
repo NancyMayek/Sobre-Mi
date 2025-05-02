@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;          
+}
+
+body{
+    background-color: #053671;
+    margin: 0;;
+    padding: 0;
+}
+
+#banner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("/Sobre-Mi/images/banner_backgroud.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 45rem;
+   
+}
+
+#banner #banner_announcement{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 16px;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 32px;
+}
+
+
+#img_logo_nav {
+    width: 200px;
+}
+
+#nav_btn{
+    border: none;
+}
+
+#nav_btn img{
+    width: 80px;
+}
+
+#banner_announcement img{
+    width: 1000px;
+}
+
