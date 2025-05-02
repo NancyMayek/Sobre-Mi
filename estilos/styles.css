@@ -14,9 +14,7 @@ body{
     flex-direction: column;
     justify-content: center;
     background-image: url("/Sobre-Mi/images/banner_backgroud.jpg");
-    background-repeat: no-repeat;
     background-size:cover;
-    height: 45rem;
    
 }
 
@@ -24,16 +22,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 16px;
+    
 }
 
 #nav{
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding-left: 64px;
-    padding-right: 64px;
-    padding-top: 32px;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 2rem;
 }
 
 
@@ -43,6 +40,7 @@ body{
 
 #nav_btn{
     border: none;
+    color: transparent;
 }
 
 #nav_btn img{
@@ -50,6 +48,7 @@ body{
 }
 
 #banner_announcement img{
-    width: 1000px;
+    width: 50rem;
+    padding-bottom: 10rem;
 }
 
