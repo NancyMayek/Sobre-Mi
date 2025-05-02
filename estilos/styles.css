@@ -67,6 +67,7 @@ h1{
     font-style: normal;
     font-size: 3rem;
     color: #FFD88F;
+    padding-top: 2rem;
 }
 
 #about_me_block{
@@ -101,6 +102,13 @@ h1{
 }
 
 /*--------FAB SONGS----------*/
+#seccion_hobbies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 8rem;
+}
 
 h2{
     font-family: "Cormorant Unicase", serif;
