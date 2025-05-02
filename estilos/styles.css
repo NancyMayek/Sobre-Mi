@@ -100,3 +100,48 @@ h1{
 #about_me_secondp{
     font-size: 2rem;
 }
+
+/*--------FAB SONGS----------*/
+
+#favourite_songs{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3rem;
+}
+
+.fab_song_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.song{
+    margin: 2rem;
+    padding-left: 8rem;
+    width: 70rem;
+}
+
+.comments{
+    margin-left: 2rem;
+}
+
+.comments h2{
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 2.5rem;
+    color: #FFD88F;
+}
+
+.comments h3{
+    font-family: "Cormorant Unicase", serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 1.5rem;
+    color: #ffffff;
+    padding-right: 7rem;
+}
+
